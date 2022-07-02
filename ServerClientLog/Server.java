@@ -8,7 +8,6 @@ import java.io.OutputStream;
 import java.io.PrintWriter;
 import java.net.ServerSocket;
 import java.net.Socket;
-// 3-) java.net kütüphanesini import ediyoruz
 
 public class Server {
 	

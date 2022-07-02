@@ -9,7 +9,8 @@ import java.util.Date;
 import java.util.Locale;
 
 public class Log {
-	private static String PATH = "C:\\Users\\KULLANICIADI\\Desktop\\message\\log.txt";
+	private static String PATH = "C:\\Users\\KULLANICIADI\\Desktop\\log.txt";
+	
 	private static File file = new File(PATH);
 	
 	public static void messageWrite(String message) throws IOException {
